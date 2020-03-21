@@ -1,0 +1,10 @@
+C:\Users\rmatt\Documents\CITC\2311\Translator\bin\Debug\Translator.exe.config
+C:\Users\rmatt\Documents\CITC\2311\Translator\bin\Debug\Translator.exe
+C:\Users\rmatt\Documents\CITC\2311\Translator\bin\Debug\Translator.pdb
+C:\Users\rmatt\Documents\CITC\2311\Translator\obj\Debug\Translator.csprojAssemblyReference.cache
+C:\Users\rmatt\Documents\CITC\2311\Translator\obj\Debug\Translator.Form1.resources
+C:\Users\rmatt\Documents\CITC\2311\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\rmatt\Documents\CITC\2311\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\rmatt\Documents\CITC\2311\Translator\obj\Debug\Translator.exe
+C:\Users\rmatt\Documents\CITC\2311\Translator\obj\Debug\Translator.pdb
+C:\Users\rmatt\Documents\CITC\2311\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
